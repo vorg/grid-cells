@@ -1,10 +1,8 @@
-bower_components
 node_modules
 *.log
+*.swp
 .DS_Store
-bundle.js
-test
-test.js
-demo/
+example/
 .npmignore
 LICENSE.md
+screenshot.png
